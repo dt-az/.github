@@ -1,4 +1,4 @@
-# 🚀 Welcome to DT-AZ 
+# 🚀 Welcome to DT-AZ corp.
 
 ## 🌟 About Us  
 This organization is a hub for my personal side projects and technology experiments. Here, I explore, practice, and build projects using various programming languages, frameworks, and tools—all for learning and growth.  
